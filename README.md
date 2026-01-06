@@ -3,12 +3,12 @@
   <img src="https://img.shields.io/badge/Status-Preprint_Submitted-blue?style=for-the-badge&logo=arxiv" alt="Status">
   <a href="https://opensource.org/licenses/Apache-2.0">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&logo=apache" alt="License">
-  </a>
-</p>
+
   <h1>🧠 The Geometric Cognition Hypothesis (GCH)</h1>
   <h3>Mathematical Beauty as Topological Recognition in Abstract Neural Manifolds</h3>
   <p><em>"L'intuition n'est pas de la magie. C'est de la géométrie haute-dimensionnelle."</em></p>
-</div>
+  </a>
+</p>
 
 ---
 
