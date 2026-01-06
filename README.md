@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Theory-Geometric_Cognition-purple?style=for-the-badge&logo=brain" alt="Theory">
   <img src="https://img.shields.io/badge/Status-Preprint_Submitted-blue?style=for-the-badge&logo=arxiv" alt="Status">
-  <img src="https://img.shields.io/badge/License-CC_BY_4.0-green?style=for-the-badge&logo=open-access" alt="License">
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&logo=apache)](https://opensource.org/licenses/Apache-2.0)
 </p>
 
 <div align="center">
